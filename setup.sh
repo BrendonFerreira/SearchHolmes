@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
 
 #TODO instalar Lynx se não presente
-
-#TODO perguntar onde deseja que seja salvo os arquivos
+sudo apt-get update
+sudo apt-get install lynx
